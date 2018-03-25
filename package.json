@@ -1,0 +1,26 @@
+{
+  "name": "srv-moto-ems",
+  "version": "1.0.0",
+  "description": "backend MotoEMS service",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majdNawatha/MotoEMS.git"
+  },
+  "author": "Majd Nawatha - Yotam Akshota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majdNawatha/MotoEMS/issues"
+  },
+  "homepage": "https://github.com/majdNawatha/MotoEMS#readme"
+}
